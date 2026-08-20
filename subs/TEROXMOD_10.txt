@@ -1,3 +1,0 @@
-vless://68b24a05-1d19-4454-fda1-9c4077130575@localhost:443?encryption=none&security=tls&type=ws&host=localhost&path=/ws/68b24a05-1d19-4454-fda1-9c4077130575&sni=localhost&fp=chrome&alpn=http/1.1#RVG-TEROXMOD
-vless://bee8cab9-0079-0df2-3210-40bd5c1f80d6@localhost:443?encryption=none&security=tls&type=xhttp&mode=packet-up&host=localhost&path=/xhttp-siz10/packet-up/bee8cab9-0079-0df2-3210-40bd5c1f80d6&sni=localhost&fp=chrome&alpn=h2%2Chttp/1.1#RVG-TEROXMOD
-vless://7df88478-f1ce-bdab-fee6-13045ec96ae3@localhost:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=localhost&path=/xhttp-siz10/stream-up/7df88478-f1ce-bdab-fee6-13045ec96ae3&sni=localhost&fp=chrome&alpn=h2%2Chttp/1.1#RVG-TEROXMOD
